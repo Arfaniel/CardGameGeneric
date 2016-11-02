@@ -1,0 +1,6 @@
+c:\users\vivi\documents\visual studio 2015\Projects\CardGameGenerics\CardGameGenerics\bin\Debug\CardGameGenerics.exe.config
+c:\users\vivi\documents\visual studio 2015\Projects\CardGameGenerics\CardGameGenerics\bin\Debug\CardGameGenerics.exe
+c:\users\vivi\documents\visual studio 2015\Projects\CardGameGenerics\CardGameGenerics\bin\Debug\CardGameGenerics.pdb
+c:\users\vivi\documents\visual studio 2015\Projects\CardGameGenerics\CardGameGenerics\obj\Debug\CardGameGenerics.csprojResolveAssemblyReference.cache
+c:\users\vivi\documents\visual studio 2015\Projects\CardGameGenerics\CardGameGenerics\obj\Debug\CardGameGenerics.exe
+c:\users\vivi\documents\visual studio 2015\Projects\CardGameGenerics\CardGameGenerics\obj\Debug\CardGameGenerics.pdb
